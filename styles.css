@@ -1,0 +1,20 @@
+body{
+    background-color: azure;
+    color: black;
+}
+h1{
+    color: darkslategrey;
+}
+p{
+    color: darkblue;
+}
+img{
+    border-radius: 50%;
+}
+#special{
+    color: darkblue;
+    background-color: azure;
+}
+hr{
+    border: 2px solid #191970;
+}
